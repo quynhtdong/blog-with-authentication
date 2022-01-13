@@ -1,0 +1,16 @@
+.card {
+    margin: 1rem;
+    padding: 1rem;
+    border: #c7956d 0.3vw;
+    border-style: dashed;
+  }
+  
+  .card:hover {
+    background-color: #ffe5b9;
+  }
+  
+  .summary {
+    display: inline-block;
+    text-overflow: ellipsis;
+    word-break: break-all;
+  }

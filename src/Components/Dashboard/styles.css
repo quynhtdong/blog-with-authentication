@@ -1,0 +1,37 @@
+body {
+    background-color: #7c9473;
+}
+
+.form-group {
+    width: 30vw;
+    margin-left: 30%;
+}
+
+.Posts {    margin-bottom: 1vh;
+    width: 80vw;
+    margin-left: 10%;
+}
+
+button {
+    width: 10vw;
+    
+}
+
+#dropdown-basic-button {
+    width: 15vw;
+    background-color: rgb(92, 146, 121);
+    position: absolute;
+    right: 6vw;
+    bottom: 2vh
+}
+
+#auth {
+    position: relative;
+    left: 60vw;
+    bottom: 0
+}
+
+#cancel {
+    width: 2vw;
+    text-align: justify;
+}
